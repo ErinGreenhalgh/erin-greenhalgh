@@ -15,7 +15,7 @@ This module I had a number of learning goals. The primary was of course to becom
 
 ### End of Module Assessment
 
-(Notes & scores from your assessment rubric)
+Got a passing score but need to get the breakdown of scores from Mike. 
 
 ## Work
 
