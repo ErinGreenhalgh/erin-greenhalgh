@@ -82,9 +82,8 @@ organized as I created more methods. I was able to finish encrypt and decrypt fu
 
 ## Team
 
-The projects below are my team projects for this module.
-
 ### Projects
+The projects below are my team projects for this module.
 
 ### HTTP Yeah You Know Me
 
