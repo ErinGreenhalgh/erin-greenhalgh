@@ -1,6 +1,13 @@
 # Erin Greenhalgh - M1 Portfolio
 
 ## Individual
+### Self-Assessment Scores:
+End of mod assessment: 4
+Individual work and projects: 3
+Group work and projects: 3
+Community participation: 3
+Peer and instructor feedback: 4
+
 
 ### Areas of Emphasis
 
@@ -124,7 +131,7 @@ This culminating project for Mod 1 was as hard as everyone warned it would be, b
 #Notes from eval with Jhun:
  "Group shows understanding of project and code looks good. They lost a day due to a waffle problem. Horace and Mike are aware. There are solid attempts to try to move things into single responsibility methods and attempts to write solid test. I believe that if they had another day they would of been better off."
 
- *Other notes:*
+ **Other notes:**
  Jhun expressed that he saw us doing good work and moving a good direction and believes that we would have nailed the project had we not lost a day. He recognized that we were following a cascading TDD format but would have liked to see a few more edge case tests. He believes we were on the right track in terms of encapsulation and saw great glimpses in our code of truly single-responsibility and encapsulated components.
 
 #Project Scores:
@@ -134,8 +141,6 @@ Encapsulation: 3+
 Fundamental ruby and style: 3
 Enumerables: 4
 Code Sanitation: 4
-
-#Feedback from peers:
 
 ## Community
 
@@ -150,36 +155,30 @@ Code Sanitation: 4
 
 **Brian Sayler:** "Brian has been a wonderful person to get to know over the last 6 weeks. Not only is he a sharp programmer, he is also supportive, encouraging, and willing to help. I consistently saw Brian working long hours, often carrying the weight of his project team, and making sure that he was creating the best product he could. He also gave many hours of his time to help me and many others debug and problem solve. I look forward to working with Brian more at Turing and have no doubt he will go far!"
 
-**Karina Gonzales:**
+**Karina Gonzales:** "It has been a pleasure working with Karina on Headcount. This was a daunting project, and I was impressed again and again with Karina’s even-tempered resolve to dig into a problem, learn about it, and find a solution. Karina’s programming and problem solving skills are sharp, and she knows the right questions to ask to get to the root of a problem. She is also a caring friend and sunny individual who easily makes bonds with other people in the program. I admire her dedication and her skill and look forward to working with her more in the future."
+
+**Aaron Greenspan:** "It has been a great pleasure to work with and get to know Aaron over the last several weeks. His approach to problem solving is at once level-headed and dynamic. I admire the way he deftly breaks problems into small components in order to build an elegant solution. At multiple points Aaron helped me use this technique to make progress on projects when I had otherwise hit a dead end. Beyond his obvious technical skill, Aaron is also a compassionate and passionate teacher. He is good at engaging people, though at times he could benefit from slowing down and making sure people are fully understand the topic before moving on. Aaron easily earns the respect and friendship of his peers, and I look forward to seeing where his talents will take him!"
 
 
 ### Being a Community Member
 #Feedback for me:
 
-*Jhun de Andres:*
+**Jhun de Andres:**
 "Every time I've paired with Erin there's always a huge smile on her face and she's always willing to work hard. She's bright, personable and I believe that those skills will play in her favor during her time at Turing. I am really excited to see where she goes as a developer and the tools she builds."
 
-*Sonia Gupta:*
+**Sonia Gupta:**
 "It was truly a pleasure getting to know Erin this module. I admire her hard work and dedication, and the ease with which she interacts with her partners. She has an incredible amount of perseverance in the face of adversity, and I’ve noticed that she meets obstacles with an optimistic resolve to push through them--she does not capitulate. I am glad to have had the chance to get to know her and have no doubt that she will be an exceptionally successful and skillful developer!"
 
-*Brian Sayler:*
+**Brian Sayler:**
 "Erin has an excellent attitude and brings a fun energy to programming.  Over the last few weeks she has shown that she is determined and committed to her work. Many times I found that Erin, Karina and I were the only 1603 students still in the building on nights and weekends. In the beginning she had a tendency to get flustered with hard problems, but has shown strong development and now approaches problems with confidence. Erin's light-hearted personality makes her enjoyable to work with, making the struggle of learning software development fun."
 
-*Aaron Greenspan*
+**Aaron Greenspan**
 "Erin takes great pride in her work.  I’ve not seen someone whiteboard and pseudo code so thoroughly, and the thrust of this effort is the design of clean, elegant, and precise code.  While the output is exceedingly clean and well made, I think part of this extended planning phase stems from a fear of making code decisions on the fly, as though a wrong decision early on will make it absolutely impossible to fix later.  This is rarely the case, and I think incorporating a bit more “reckless” coding will propel her projects further faster, and actually shed far more light on the problem at hand than thinking about it from a birds eye view."
 
 ### Playing a Part
 
-Over these last 6 weeks I have worked hard to build sincere relationships with people in my mod and across mods. I made an effort to be at Turing as much as possible, working at school and interacting with other students whenever I had the chance. I consistently stayed at school until 8 or 9 every night and had the opportunity to talk with people about technical and project-related work as well as their personal lives. I helped other students in my mod with technical where I was able, and I offered support and a listening ear to those people in my mod whom I knew were struggling with various personal and Turing-related issues. While I'm still developing my technical skills, the biggest thing I can contribute is compassion and empathy to others. I know the people I have met enjoy working with me and trust me as a strong friend and team member.
+Over these last 6 weeks I have worked hard to build sincere relationships with people in my mod and across mods. I made an effort to be at Turing as much as possible, working at school and interacting with other students whenever I had the chance. I have on multiple occasions attended meet-ups and supported Turing students who were presenting or giving talks. I consistently stayed at school until 8 or 9 every night and had the opportunity to talk with people about technical and project-related work as well as their personal lives. I helped other students in my mod with technical where I was able, and I offered support and a listening ear to those people in my mod whom I knew were struggling with various personal and Turing-related issues. While I'm still developing my technical skills, the biggest thing I can contribute is compassion and empathy to others. I know the people I have met enjoy working with me and trust me as a strong friend and team member.
 
-I have also made an effort to attend meet-ups and support Turing students who are presenting or giving talks.
-
-### Self-Assessment Scores:
-End of mod assessment: 4
-Individual work and projects:
-Group work and projects: 3
-Community participation: 3
-Peer and instructor feedback: 4
 ## Review
 
 ### Notes
