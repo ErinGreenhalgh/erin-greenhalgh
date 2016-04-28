@@ -17,7 +17,7 @@ This module I had a number of learning goals. The primary was of course to becom
 
 (Notes & scores from your assessment rubric)
 
-### Work
+## Work
 
 The projects below are my individual projects from this module.
 
