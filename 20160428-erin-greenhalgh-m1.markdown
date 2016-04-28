@@ -34,7 +34,7 @@ behavior of the linked list. It was a challenging project but satisfying to have
 accomplished my first project at Turing.
 
 
-####Notes from eval with Mike:
+###Notes from eval with Mike:
 * 26 tests total, all passing. Some more edge cases would be nice.
 * well written code, some small areas can be refactored/remove unnecessary assignment of variables.
 * Loved the handling of an error case and the fact that it was tested.
@@ -42,14 +42,14 @@ accomplished my first project at Turing.
 
 Overall, Mike sad that my project was one of his favorites that he had evaluated.
 
-#####Project Scores
+####Project Scores
 * Functional expectations: 3
 * Test-driven development: 3
 * Encapsulation / breaking logic into components: 4
 * Fundamental ruby and style: 3
 * Looping or recursion: 3
 
-#####Feedback from peers:
+####Feedback from peers:
 **Luigi Aversano:**
 "Erin was a part of a group of us 1603 students that was working on Jungle Beats late at night before it was due. Erin did a great job of explaining certain concepts in the program as well as the overall flow of TDD. She was patient and stayed later than she needed to just to ensure that everyone in the group completed the project and felt comfortable with the work. She is a great team player."
 
