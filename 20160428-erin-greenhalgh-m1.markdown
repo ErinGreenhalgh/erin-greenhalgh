@@ -2,11 +2,11 @@
 
 ## Individual
 ### Self-Assessment Scores:
-*End of mod assessment: 4
-*Individual work and projects: 3
-*Group work and projects: 3
-*Community participation: 3
-*Peer and instructor feedback: 4
+* End of mod assessment: 4
+* Individual work and projects: 3
+* Group work and projects: 3
+* Community participation: 3
+* Peer and instructor feedback: 4
 
 
 ### Areas of Emphasis
@@ -35,19 +35,19 @@ accomplished my first project at Turing.
 
 
 #Notes from eval with Mike:
-*26 tests total, all passing. Some more edge cases would be nice.
-*well written code, some small areas can be refactored/remove unnecessary assignment of variables.
-*Loved the handling of an error case and the fact that it was tested.
-*defaulted to use of attr_reader instead of attr_accessor
+* 26 tests total, all passing. Some more edge cases would be nice.
+* well written code, some small areas can be refactored/remove unnecessary assignment of variables.
+* Loved the handling of an error case and the fact that it was tested.
+* defaulted to use of attr_reader instead of attr_accessor
 
 Overall, Mike sad that my project was one of his favorites that he had evaluated.
 
 #Project Scores
-*Functional expectations: 3
-*Test-driven development: 3
-*Encapsulation / breaking logic into components: 4
-*Fundamental ruby and style: 3
-*Looping or recursion: 3
+* Functional expectations: 3
+* Test-driven development: 3
+* Encapsulation / breaking logic into components: 4
+* Fundamental ruby and style: 3
+* Looping or recursion: 3
 
 #Feedback from peers:
 **Luigi Aversano:**
@@ -66,18 +66,18 @@ the spec while creating maintainable code. My engima class got fairly large, whi
 organized as I created more methods. I was able to finish encrypt and decrypt functionality but did not finish the crack method in time.
 
 #Notes from eval with Nate:
-*Enigma class is getting kinda full. Consider breaking things out into other classes
-*You're able to speak to all your decisions, and that's a good thing, but ask for input in grey areas
-*Good tests. Well named, good break down of functionality.
-*Naming in general is good, but some places where you could be more explicit
-*Focus on functionality is good, although some functionality is missing
-*Find the balance between getting it functional and making it maintainable
+* Enigma class is getting kinda full. Consider breaking things out into other classes
+* You're able to speak to all your decisions, and that's a good thing, but ask for input in grey areas
+* Good tests. Well named, good break down of functionality.
+* Naming in general is good, but some places where you could be more explicit
+* Focus on functionality is good, although some functionality is missing
+* Find the balance between getting it functional and making it maintainable
 
 #Project Scores:
-*Overall functionality: 2
-*Fundamental ruby and style: 3
-*Test-driven development: 3
-*Breaking logic into components: 3
+* Overall functionality: 2
+* Fundamental ruby and style: 3
+* Test-driven development: 3
+* Breaking logic into components: 3
 
 
 ## Team
@@ -99,14 +99,14 @@ create unit tests that ran independent of the server for some functionality. In 
 during this project, so I ended up needing to carry most of the weight of working on this project on my own. We were not able to finish the base functionality needed to get a 3 in that category, but I do feel proud of the work we accomplished in the face of so many problems. The challenges with testing helped me learn how to isolate parts of a system and work with test data, versus testing full integrated functionality every time. I also feel significantly improved my understanding of how to break things into smaller classes and objects that have a single responsibility. For me this was a significant conceptual improvement from my work on Enigma.
 
 #Notes from eval with Tess:
-*Got through iteration 3. The code was well written up to that point.
-*A 2 for testing because the word search functionality wasn't tested in the server test.
+* Got through iteration 3. The code was well written up to that point.
+* A 2 for testing because the word search functionality wasn't tested in the server test.
 
 #Project scores:
-*Overall functionality: 2
-*Fundamental ruby and style: 3
-*Test-driven development: 2
-*Breaking logic into components: 3
+* Overall functionality: 2
+* Fundamental ruby and style: 3
+* Test-driven development: 2
+* Breaking logic into components: 3
 
 #Feedback from peers:
 **Lane Winham:**
@@ -135,12 +135,12 @@ This culminating project for Mod 1 was as hard as everyone warned it would be, b
  Jhun expressed that he saw us doing good work and moving a good direction and believes that we would have nailed the project had we not lost a day. He recognized that we were following a cascading TDD format but would have liked to see a few more edge case tests. He believes we were on the right track in terms of encapsulation and saw great glimpses in our code of truly single-responsibility and encapsulated components.
 
 #Project Scores:
-*Functionality: 2
-*TDD: 3+
-*Encapsulation: 3+
-*Fundamental ruby and style: 3
-*Enumerables: 4
-*Code Sanitation: 4
+* Functionality: 2
+* TDD: 3+
+* Encapsulation: 3+
+* Fundamental ruby and style: 3
+* Enumerables: 4
+* Code Sanitation: 4
 
 ## Community
 
