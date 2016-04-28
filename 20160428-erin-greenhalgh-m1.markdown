@@ -2,11 +2,11 @@
 
 ## Individual
 ### Self-Assessment Scores:
-End of mod assessment: 4
-Individual work and projects: 3
-Group work and projects: 3
-Community participation: 3
-Peer and instructor feedback: 4
+*End of mod assessment: 4
+*Individual work and projects: 3
+*Group work and projects: 3
+*Community participation: 3
+*Peer and instructor feedback: 4
 
 
 ### Areas of Emphasis
@@ -35,22 +35,22 @@ accomplished my first project at Turing.
 
 
 #Notes from eval with Mike:
--26 tests total, all passing. Some more edge cases would be nice.
--well written code, some small areas can be refactored/remove unnecessary assignment of variables.
--Loved the handling of an error case and the fact that it was tested.
--defaulted to use of attr_reader instead of attr_accessor
+*26 tests total, all passing. Some more edge cases would be nice.
+*well written code, some small areas can be refactored/remove unnecessary assignment of variables.
+*Loved the handling of an error case and the fact that it was tested.
+*defaulted to use of attr_reader instead of attr_accessor
 
 Overall, Mike sad that my project was one of his favorites that he had evaluated.
 
 #Project Scores
-Functional expectations: 3
-Test-driven development: 3
-Encapsulation / breaking logic into components: 4
-Fundamental ruby and style: 3
-Looping or recursion: 3
+*Functional expectations: 3
+*Test-driven development: 3
+*Encapsulation / breaking logic into components: 4
+*Fundamental ruby and style: 3
+*Looping or recursion: 3
 
 #Feedback from peers:
-Luigi Aversano:
+**Luigi Aversano:**
 "Erin was a part of a group of us 1603 students that was working on Jungle Beats late at night before it was due. Erin did a great job of explaining certain concepts in the program as well as the overall flow of TDD. She was patient and stayed later than she needed to just to ensure that everyone in the group completed the project and felt comfortable with the work. She is a great team player."
 
 #### Enigma
@@ -66,18 +66,18 @@ the spec while creating maintainable code. My engima class got fairly large, whi
 organized as I created more methods. I was able to finish encrypt and decrypt functionality but did not finish the crack method in time.
 
 #Notes from eval with Nate:
--Enigma class is getting kinda full. Consider breaking things out into other classes
--You're able to speak to all your decisions, and that's a good thing, but ask for input in grey areas
--Good tests. Well named, good break down of functionality.
--Naming in general is good, but some places where you could be more explicit
--Focus on functionality is good, although some functionality is missing
--Find the balance between getting it functional and making it maintainable
+*Enigma class is getting kinda full. Consider breaking things out into other classes
+*You're able to speak to all your decisions, and that's a good thing, but ask for input in grey areas
+*Good tests. Well named, good break down of functionality.
+*Naming in general is good, but some places where you could be more explicit
+*Focus on functionality is good, although some functionality is missing
+*Find the balance between getting it functional and making it maintainable
 
 #Project Scores:
-Overall functionality: 2
-Fundamental ruby and style: 3
-Test-driven development: 3
-Breaking logic into components: 3
+*Overall functionality: 2
+*Fundamental ruby and style: 3
+*Test-driven development: 3
+*Breaking logic into components: 3
 
 
 ## Team
@@ -99,20 +99,20 @@ create unit tests that ran independent of the server for some functionality. In 
 during this project, so I ended up needing to carry most of the weight of working on this project on my own. We were not able to finish the base functionality needed to get a 3 in that category, but I do feel proud of the work we accomplished in the face of so many problems. The challenges with testing helped me learn how to isolate parts of a system and work with test data, versus testing full integrated functionality every time. I also feel significantly improved my understanding of how to break things into smaller classes and objects that have a single responsibility. For me this was a significant conceptual improvement from my work on Enigma.
 
 #Notes from eval with Tess:
--Got through iteration 3. The code was well written up to that point.
--A 2 for testing because the word search functionality wasn't tested in the server test.
+*Got through iteration 3. The code was well written up to that point.
+*A 2 for testing because the word search functionality wasn't tested in the server test.
 
 #Project scores:
-Overall functionality: 2
-Fundamental ruby and style: 3
-Test-driven development: 2
-Breaking logic into components: 3
+*Overall functionality: 2
+*Fundamental ruby and style: 3
+*Test-driven development: 2
+*Breaking logic into components: 3
 
 #Feedback from peers:
-Lane Winham:
+**Lane Winham:**
 "Erin was a strong partner to have on our first pair project. Starting out we were able to work towards a common goal and shoot ideas off each other easily. After a few days had passed the dynamic between us and our workflow had altered due to my perceived lack in technical skill. During this shift in dynamic, Erin did such a wonderful job of including me in her thought process and presenting the code to me in a way that I could follow while we moved forward. She was very attentive and patient with me throughout the entire partnership. Erin demonstrated that she has a good understanding of ruby fundamentals but beyond that she demonstrated how adaptive and well rounded she is as a partner. Best of all the stress of the assignment never compromised her bubbly eager attitude!"
 
-Kris Sparks:
+**Kris Sparks:**
 "During the HTTP project, Erin expressed concern about her overall progress. I noticed that as she worked she was writing tests as well as writing code. I also noticed that, as compared with other students, she spent proportionately less time soliciting advice and more time grinding through each iteration of the project. At each increment she had a solid understanding of the concepts and goals of the project. Erin was able to articulate what she wanted to accomplish as she worked to implement it. Her independent progress, use of TTD and ability to work through the project logically was notable and stood out among our peers.
 
 Erin is patient, kind and willing to answer questions and help other students.  She actively participates in class and asks adept questions. Erin's significant, observable progress throughout the module has been obvious."
@@ -135,12 +135,12 @@ This culminating project for Mod 1 was as hard as everyone warned it would be, b
  Jhun expressed that he saw us doing good work and moving a good direction and believes that we would have nailed the project had we not lost a day. He recognized that we were following a cascading TDD format but would have liked to see a few more edge case tests. He believes we were on the right track in terms of encapsulation and saw great glimpses in our code of truly single-responsibility and encapsulated components.
 
 #Project Scores:
-Functionality: 2
-TDD: 3+
-Encapsulation: 3+
-Fundamental ruby and style: 3
-Enumerables: 4
-Code Sanitation: 4
+*Functionality: 2
+*TDD: 3+
+*Encapsulation: 3+
+*Fundamental ruby and style: 3
+*Enumerables: 4
+*Code Sanitation: 4
 
 ## Community
 
