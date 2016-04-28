@@ -21,7 +21,7 @@ This module I had a number of learning goals. The primary was of course to becom
 
 The projects below are my individual projects from this module.
 
-#### Jungle Beats
+### Jungle Beats
 
 * [GitHub URL](https://github.com/ErinGreenhalgh/jungle_beats)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/jungle_beat.markdown)
@@ -42,18 +42,18 @@ accomplished my first project at Turing.
 
 Overall, Mike sad that my project was one of his favorites that he had evaluated.
 
-####Project Scores
+###Project Scores
 * Functional expectations: 3
 * Test-driven development: 3
 * Encapsulation / breaking logic into components: 4
 * Fundamental ruby and style: 3
 * Looping or recursion: 3
 
-####Feedback from peers:
+###Feedback from peers:
 **Luigi Aversano:**
 "Erin was a part of a group of us 1603 students that was working on Jungle Beats late at night before it was due. Erin did a great job of explaining certain concepts in the program as well as the overall flow of TDD. She was patient and stayed later than she needed to just to ensure that everyone in the group completed the project and felt comfortable with the work. She is a great team player."
 
-### Enigma
+## Enigma
 
 * [GitHub URL](https://github.com/ErinGreenhalgh/enigma)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/enigma.markdown)
@@ -65,7 +65,7 @@ and file IO. This project felt like a considerable step up from Jungle Beats, an
 the spec while creating maintainable code. My engima class got fairly large, which made it harder for me to keep things
 organized as I created more methods. I was able to finish encrypt and decrypt functionality but did not finish the crack method in time.
 
-#Notes from eval with Nate:
+###Notes from eval with Nate:
 * Enigma class is getting kinda full. Consider breaking things out into other classes
 * You're able to speak to all your decisions, and that's a good thing, but ask for input in grey areas
 * Good tests. Well named, good break down of functionality.
@@ -73,7 +73,7 @@ organized as I created more methods. I was able to finish encrypt and decrypt fu
 * Focus on functionality is good, although some functionality is missing
 * Find the balance between getting it functional and making it maintainable
 
-#Project Scores:
+###Project Scores:
 * Overall functionality: 2
 * Fundamental ruby and style: 3
 * Test-driven development: 3
@@ -86,7 +86,7 @@ The projects below are my team projects for this module.
 
 ### Projects
 
-#### HTTP Yeah You Know Me
+### HTTP Yeah You Know Me
 
 * [GitHub URL](https://github.com/ErinGreenhalgh/http)
 * [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/http_yeah_you_know_me.markdown)
