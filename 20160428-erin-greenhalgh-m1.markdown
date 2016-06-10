@@ -15,7 +15,7 @@ This module I had a number of learning goals. The primary was of course to becom
 
 ### End of Module Assessment
 
-Got a passing score but need to get the breakdown of scores from Mike. 
+Got a passing score but need to get the breakdown of scores from Mike.
 
 ## Work
 
@@ -40,7 +40,7 @@ accomplished my first project at Turing.
 * Loved the handling of an error case and the fact that it was tested.
 * defaulted to use of attr_reader instead of attr_accessor
 
-Overall, Mike sad that my project was one of his favorites that he had evaluated.
+Overall, Mike said that my project was one of his favorites that he had evaluated.
 
 ####Project Scores
 * Functional expectations: 3
