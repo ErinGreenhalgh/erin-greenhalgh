@@ -14,12 +14,14 @@
 TBD
 
 ### End of Module Assessment
+* Analytic/Algorithmic Thinking:  4
+* Ruby Syntax & Standard Library: 3
+* Rails Syntax & API:             3
+* MVC & Rails Style:              3
+* Testing:                        3
+* Collaboration:                  3
 
-TBD
-
-## Work
-
-The projects below are my evaluated projects.
+## Evaluated Projects
 
 ### Rush Hour
 
@@ -51,7 +53,7 @@ This project was our first attempt to synthesize what we had learned so far abou
 
 ####Feedback from peers:
 **Lucy Fox:**
-"EI've really appreciated that Erin makes sure she understands a problem before she moves on. However, I believe Erin (and probably all of us) could work on improving the problem solving process so that it's a series of productive steps in the right direction and there's less circling a bug. Overall, I think Erin has been a wonderful team member and has contributed helpful code and ideas to the project."
+"I've really appreciated that Erin makes sure she understands a problem before she moves on. However, I believe Erin (and probably all of us) could work on improving the problem solving process so that it's a series of productive steps in the right direction and there's less circling a bug. Overall, I think Erin has been a wonderful team member and has contributed helpful code and ideas to the project."
 
 **Ilana Corson:**
 "Erin is a secret beast.  Erin could speak her mind a bit more when it comes to her way to do things, she knows what’s up! She is able to come up with logical solutions to problems that come up in the group.""
@@ -59,17 +61,37 @@ This project was our first attempt to synthesize what we had learned so far abou
 ## Little Shop
 
 * [GitHub URL]()
-* [Original Assignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
+* [OriginalAssignment](https://github.com/turingschool/curriculum/blob/master/source/projects/little_shop.markdown)
 
-Purpose:
+Purpose: Build an ecommerce web application according to a series of user stories. Application includes a cart and checkout functionality, user authentication, and admin authorization.
 
-####Notes from eval with ?:
+This project required us to synthesize everything we learned this mod about the MVC model, ActiveRecord, Rails, and web application features. It was also an exercise in agile and git workflow.
+
+####Notes from eval with Jhun:
 
 TBD
 
 ####Project Scores:
 
 TBD
+
+## Non-Evaluated Projects
+* [Robot World](https://github.com/ErinGreenhalgh/robot_world)
+* [Tool Chest](https://github.com/ErinGreenhalgh/tool_chest)
+* [Mix Master](https://github.com/ErinGreenhalgh/mix_master)
+
+## Peer Evaluated Projects
+* [Rails Mini Project](https://github.com/ErinGreenhalgh/gif_generator)
+
+## Non-class Work
+
+### Blog Post
+* [Pushing Logic Down the Stack](https://medium.com/@e_green/pushing-logic-down-the-stack-an-exercise-in-refactoring-e4995fcc9733#.bnrhvkmdz)
+
+### Posse Work
+This mod I joined Armstrong Posse to work on some machine learning with Erinna and Aaron. With their help, I implemented a linear regression learning algorithm that finds the line of best fit based on a training set. I intend to keep working with the algorithm, potentially integrating it into Little Shop to implement a rating recommendation system. Though this is only a baby machine learning algorithm, and nowhere close to the best tool for implementing a rating system, I plan to use it an an exercise in integrating this tool into an existing project and to get a conceptual basis for the process of machine learning.
+
+* [Linear Regression Learning Algorithm](https://github.com/ErinGreenhalgh/linear_regression)
 
 ## Community
 
