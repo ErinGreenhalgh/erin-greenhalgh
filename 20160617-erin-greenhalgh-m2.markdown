@@ -2,16 +2,16 @@
 
 ## Individual
 ### Self-Assessment Scores:
-* End of mod assessment:
-* Individual work and projects:
-* Group work and projects:
-* Community participation:
-* Peer and instructor feedback:
+* End of mod assessment:         3
+* Individual work and projects:  3
+* Group work and projects:       3
+* Community participation:       3
+* Peer and instructor feedback:  3
 
 
 ### Areas of Emphasis
 
-TBD
+My primary goal for this mod was a continuation of my goal in Mod 1--to continue to practice resilience in the face of problems and failures. I have also tried to practice a spirit of curiosity rather than defaulting to frustration or fear when I confront a difficult problem. Mod 2 is well-known for being a firehose of information and for feeling like one long week, so I wanted to go in with the expectation that I would not learn everything and to keep moving even when I didn't feel 100% confident about a topic.
 
 ### End of Module Assessment
 * Analytic/Algorithmic Thinking:  4
@@ -31,7 +31,6 @@ TBD
 Purpose: Build a web application using Sinatra and ActiveRecord that analyzes web traffic data from various registered clients.
 
 This project was our first attempt to synthesize what we had learned so far about database design, interacting with the database via active record, and implementing the MVC model using Sinatra. It was a challenge to become more comfortable with ActiveRecord and to default to its methods and capabilities rather than trying to implement data manipulation with Ruby. It was rewarding to complete a project with some kind of interface and to implement Bootstrap and some custom CSS to make it presentable.
-
 
 ####Notes from eval with Andrew:
 * Testing is solid, but there was too much use of hard-coded values rather than calling ActiveRecord relations, e.g., hard-coding a client ID of 1 instead of calling client.id. It was good to move some of the work of test setup to our test helper, but more of the work of creating payloads and analyzing the data should be done in the helper rather than the test. This will make the tests easier to read and help avoid having the tests be saturated with logic they don't need to know about.
@@ -103,7 +102,7 @@ See full eval notes [here](https://github.com/Riizu/hiptique/blob/master/assessm
 * [Pushing Logic Down the Stack](https://medium.com/@e_green/pushing-logic-down-the-stack-an-exercise-in-refactoring-e4995fcc9733#.bnrhvkmdz)
 
 ### Posse Work
-This mod I joined Armstrong Posse to work on some machine learning with Erinna and Aaron. With their help, I implemented a linear regression learning algorithm that finds the line of best fit based on a training set. I intend to keep working with the algorithm, potentially integrating it into Little Shop to implement a rating recommendation system. Though this is only a baby machine learning algorithm, and nowhere close to the best tool for implementing a rating system, I plan to use it an an exercise in integrating this tool into an existing project and to get a conceptual basis for the process of machine learning.
+This mod I joined Armstrong Posse to work on some machine learning with Erinna and Aaron. With their help, I implemented a linear regression learning algorithm that finds the line of best fit based on a training dataset. I intend to keep working with the algorithm, potentially integrating it into Little Shop to implement a rating recommendation system. Though this is only a baby machine learning algorithm, and nowhere close to the best tool for implementing a rating system, I plan to use it an an exercise in integrating this tool into an existing project and to get a conceptual basis for the process of machine learning.
 
 * [Linear Regression Learning Algorithm](https://github.com/ErinGreenhalgh/linear_regression)
 
@@ -133,7 +132,7 @@ I agree with the strengths that my team members touched on as well--I am reliabl
 
 ## Playing a Part
 
-This mod I made an effort to be available to Mod 1 student for help as much as possible. I was on the schedule to pair with mod 1 students most weeks, and I checked in with groups during Headcount to help them work through all those hashes and also provide some emotional support and tips for getting through that monster project. I attended meetups like Denver RB and Creative Coders to talk with people in the industry and support Turing students who were speaking. I also spoke on the Try Turing panel for prospective students.
+This mod I made an effort to be available to Mod 1 student for help as much as possible. I was on the schedule to pair with mod 1 students most weeks, and I checked in with groups during Headcount to help them work through all those hashes and also provide some emotional support and tips for getting through that monster project. I led a student-led session on Pry in the first week of the mod for mod 1 students that many students told me was helpful to them. I also attended meetups like Denver RB and Creative Coders to talk with people in the industry and support Turing students who were speaking, and I spoke on the Try Turing panel for prospective students.
 
 ## Review
 
