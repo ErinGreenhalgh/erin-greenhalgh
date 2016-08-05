@@ -11,7 +11,7 @@
 
 ### Areas of Emphasis
 
-TBD
+My goal this module has been a continuation of my goals in previous modules: I want to develop resilience and persistence. All of the developers I have admired at Turing have similar approach of solving problems with curiosity, looking at the problem from different angles, systematically trying different approaches until they reach a solution. People told me that in mod 3 I would better learn this problem-solving approach, and I have tried to practice it in my projects, looking past the initial panic of not knowing the answer and trusting what I have learned to help me figure it out. I know I have more work to do in this area, but I am proud of how I have learned and grown in mod 3. 
 
 ### End of Module Assessment
 * Ruby Style:                     3
@@ -135,6 +135,7 @@ This project was an intense race to build API endpoints for multiple models and 
 
 ####Feedback from Peers:
 **Karina Gonzalez**
+"I believe Erin is one of the most hard-working students at Turing.  She has persistently put in an inordinate amount of time into every single one of her projects.  I’ve worked with Erin on two projects now and for both, Erin managed to bring such an air of levity to every situation. This makes it very enjoyable to work with her.  Erin is also very bright and has this way of solving a problem with pen and paper before ever writing a single line of code, this gives one a sense of ease when plunging into a difficult puzzle with her.  I believe that Erin makes a conscious effort to maintain an open mind when solving logical and interpersonal problems.  Which is why I feel as if her potential to excel as a developer is immeasurable."
 
 
 ## Self-Directed Project
