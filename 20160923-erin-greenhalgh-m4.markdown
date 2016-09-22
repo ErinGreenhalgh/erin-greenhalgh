@@ -4,7 +4,7 @@
 
 My goals this module shifted somewhat from my goals in the previous mods. During the first half of the mod, I focused on learning JavaScript and trying to dive into the front-end world, which was a bit of a paradigm shift for me. During the second half of the module I shifted my focus to the job hunt. It was important to me to leave Turing with some job momentum. Denver Startup Week was a fantastic opportunity to make some contacts, and I scheduled several coffee meetings and interviews with people that I met there.
 
-At the end of mod 4, in many ways I feel that now my real work begins. I know that the next year will be difficult, transitioning into a new career and honing the skills we have learned at Turing. However I am excited to go into the wild world of development as a member of the Turing community, and group of people who are tenacious and hungry to learn and ambitious and caring and of whom I am glad to be a part. 
+At the end of mod 4, in many ways I feel that now my real work begins. I know that the next year will be difficult, transitioning into a new career and honing the skills we have learned at Turing. However I am excited to go into the wild world of development as a member of the Turing community, a group of people who are tenacious and hungry to learn and ambitious and caring and of whom I am glad to be a part. 
 
 ## Rubric Scores
 
