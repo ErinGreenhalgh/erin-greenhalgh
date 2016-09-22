@@ -83,7 +83,7 @@ This GearUp was the most charged, for a lot of reasons, including the issues in 
 
 
 ### Professional Development Workshops
-#### (Session Name)
+#### Telling Your Story, Negotiations, and Technical Interview Tips
 
 * [Workshop URL](https://github.com/turingschool/professional_skills#negotiations)
 * [Link to Completed Deliverables](https://gist.github.com/ErinGreenhalgh/87e96dfcf056dad894bd0a40c0a41fbe)
